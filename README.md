@@ -1,9 +1,10 @@
 # MeetBurn
 
-A 45-minute standup with a muted CEO is a four-figure lei burn. Duration times
-loaded hourly rate times the invite list. Skip the people who will not speak.
+Calendar time priced as loaded labor: duration × invited attendees × hourly
+rate. Optional participants can be excluded so the figure matches who will
+actually sit in the room.
 
-The product is one function in [`src/lib/meet.ts`](src/lib/meet.ts).
+The cost function is [`src/lib/meet.ts`](src/lib/meet.ts).
 
 **React 19 · TypeScript (strict) · Vite 8 · Tailwind CSS 4 · Zustand · Vitest ·
 Playwright**
@@ -23,11 +24,11 @@ and Logs (Mountain View).
 | -------- | --------------------------------------------------------------------------------------- |
 | GitHub   | [github.com/alexalghisi](https://github.com/alexalghisi)                                |
 | LinkedIn | [linkedin.com/in/alghisi](https://www.linkedin.com/in/alghisi)                          |
-| Email    | [alessandro@onlineparentingprograms.com](mailto:alessandro@onlineparentingprograms.com) |
+| Email    | [alexalghisi@gmail.com](mailto:alexalghisi@gmail.com)                                   |
 | Location | Cluj-Napoca, Romania · open to remote / EU / US-friendly timezones                      |
 
 **Hiring?** Open an issue, message me on LinkedIn, or email
-[alessandro@onlineparentingprograms.com](mailto:alessandro@onlineparentingprograms.com).
+[alexalghisi@gmail.com](mailto:alexalghisi@gmail.com).
 
 ---
 
