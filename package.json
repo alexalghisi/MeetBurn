@@ -48,5 +48,5 @@
     "vitest": "^4.1.10"
   },
   "name": "meetburn",
-  "description": "Meeting cost as loaded labor: duration \u00d7 attendees \u00d7 hourly rate, with an explicit invite set."
+  "description": "Meeting cost as loaded labor: duration × attendees × hourly rate, with an explicit invite set."
 }
