@@ -4,6 +4,10 @@ Calendar time priced as loaded labor: duration × invited attendees × hourly
 rate. Optional participants can be excluded so the figure matches who will
 actually sit in the room.
 
+**Download:** [latest release](https://github.com/alexalghisi/MeetBurn/releases/latest)
+
+![MeetBurn running](docs/preview.png)
+
 The cost function is [`src/lib/meet.ts`](src/lib/meet.ts).
 
 **React 19 · TypeScript (strict) · Vite 8 · Tailwind CSS 4 · Zustand · Vitest ·
